@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // Output text to the screen.
-            Console.WriteLine(value: "The first app in Beginning Visual C# 2017!");
+            Console.WriteLine(value: "The first app in Beginning Visual C# 2015!");
             Console.ReadKey();
 
         }
